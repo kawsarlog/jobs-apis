@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **4,099** production-ready Jobs APIs for aggregating listings, salaries, and hiring signals.
+> **4,099** production-ready Jobs APIs.
 
 A focused, always-fresh index of Jobs APIs for aggregating listings, salaries, and hiring signals. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
