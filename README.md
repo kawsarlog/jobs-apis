@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/jobs-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/jobs-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/jobs-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/jobs-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/jobs-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/jobs-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-4,099-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-4,146-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **4,099** production-ready Jobs APIs.
+> **4,146** production-ready Jobs APIs.
 
 A focused, always-fresh index of Jobs APIs for aggregating listings, salaries, and hiring signals. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **4,099** |
+| **Total APIs** | **4,146** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,7 +38,7 @@ A focused, always-fresh index of Jobs APIs for aggregating listings, salaries, a
   <tr>
     <td width="100%" valign="top">
       <h3>Jobs</h3>
-      <p><strong>4,099 APIs</strong></p>
+      <p><strong>4,146 APIs</strong></p>
       <p>Job listings, salary data, and hiring signals aggregated from across the web.</p>
       <p><a href="./Jobs/"><strong>Open Jobs &rarr;</strong></a></p>
     </td>
@@ -55,7 +55,7 @@ A focused, always-fresh index of Jobs APIs for aggregating listings, salaries, a
 ## Explore the Stack
 
 <details open>
-<summary><strong>Jobs — 4,099 APIs</strong></summary>
+<summary><strong>Jobs — 4,146 APIs</strong></summary>
 
 Job listings, salary data, and hiring signals aggregated from across the web.
 
@@ -95,7 +95,7 @@ Job listings, salary data, and hiring signals aggregated from across the web.
 
 <div align="center">
 
-**4,099 APIs** across **1 categories** — updated 2026-07-15
+**4,146 APIs** across **1 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
